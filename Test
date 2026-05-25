@@ -1,0 +1,16 @@
+<!doctype html>
+<html lang="de">
+<head>
+  <meta charset="utf-8">
+  <title>Meine Website</title>
+</head>
+<body>
+  <h1>Dein Name oder Firmenname</h1>
+
+  <p>Telefon: 0123 456789</p>
+  <p>E-Mail: info@deinedomain.de</p>
+  <p>Adresse: Musterstraße 1, 12345 Musterstadt</p>
+
+  <p>Öffnungszeiten: Montag bis Freitag, 9:00–17:00 Uhr</p>
+</body>
+</html>
